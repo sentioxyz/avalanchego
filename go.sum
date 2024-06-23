@@ -64,8 +64,6 @@ github.com/antithesishq/antithesis-sdk-go v0.3.8/go.mod h1:IUpT2DPAKh6i/YhSbt6Gl
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPdPJAN/hZIm0C4OItdklCFmMRWYpio=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
-github.com/ava-labs/coreth v0.13.9-rc.1 h1:qIICpC/OZGYUP37QnLgIqqwGmxnLwLpZaUlqJNI85vU=
-github.com/ava-labs/coreth v0.13.9-rc.1/go.mod h1:7aMsRIo/3GBE44qWZMjnfqdqfcfZ5yShTTm2LObLaYo=
 github.com/ava-labs/ledger-avalanche/go v0.0.0-20241009183145-e6f90a8a1a60 h1:EL66gtXOAwR/4KYBjOV03LTWgkEXvLePribLlJNu4g0=
 github.com/ava-labs/ledger-avalanche/go v0.0.0-20241009183145-e6f90a8a1a60/go.mod h1:/7qKobTfbzBu7eSTVaXMTr56yTYk4j2Px6/8G+idxHo=
 github.com/aymerick/raymond v2.0.3-0.20180322193309-b565731e1464+incompatible/go.mod h1:osfaiScAUVup+UC9Nfq76eWqDhXlp+4UYaA8uhTBO6g=
@@ -555,6 +553,8 @@ github.com/ryanuber/columnize v2.1.0+incompatible/go.mod h1:sm1tb6uqfes/u+d4ooFo
 github.com/sanity-io/litter v1.5.1 h1:dwnrSypP6q56o3lFxTU+t2fwQ9A+U5qrXVO4Qg9KwVU=
 github.com/sanity-io/litter v1.5.1/go.mod h1:5Z71SvaYy5kcGtyglXOC9rrUi3c1E8CamFWjQsazTh0=
 github.com/schollz/closestmatch v2.1.0+incompatible/go.mod h1:RtP1ddjLong6gTkbtmuhtR2uUrrJOpYzYRvbcPAid+g=
+github.com/sentioxyz/coreth v0.0.0-20241217025855-09f298ef2f15 h1:VBpq1tBa3jv46OO2wAWeAtesGDMeoFBLxHL/Cjq7Sq0=
+github.com/sentioxyz/coreth v0.0.0-20241217025855-09f298ef2f15/go.mod h1:7aMsRIo/3GBE44qWZMjnfqdqfcfZ5yShTTm2LObLaYo=
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/shirou/gopsutil v3.21.11+incompatible h1:+1+c1VGhc88SSonWP6foOcLhvnKlUeu/erjjvaPEYiI=
 github.com/shirou/gopsutil v3.21.11+incompatible/go.mod h1:5b4v6he4MtMOwMlS0TUMTu2PcXUg8+E1lC7eC3UO/RA=
